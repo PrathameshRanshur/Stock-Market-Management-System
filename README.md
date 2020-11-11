@@ -1,1 +1,1 @@
-# Stock-MArket-Management-System
+# Stock-Market-Management-System
